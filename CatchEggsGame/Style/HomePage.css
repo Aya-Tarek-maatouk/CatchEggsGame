@@ -1,0 +1,43 @@
+﻿#Strated {
+    padding: 10px;
+    margin-top: 17%;
+    text-align: center;
+}
+#lbl {
+    font-size: 32px;
+    font-weight: 900;
+    color: white;
+    font-family: 'Curlz MT';
+}
+.Error {
+    background: rgba(255,221,221,1);
+}
+body {
+    background-image: url(../Images/E2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#btnEasy, #btnNormal {
+    width: 400px;
+    height: 135px;
+    border-radius: 10px;
+    background-color: lightcoral;
+    border: none;
+    color: white;
+    font-weight: 800;
+    font-size: 23pt;
+    border: groove white;
+    font-family: 'Curlz MT';
+}
+
+#Hometxt {
+    width: 400px;
+    margin:0 auto;
+}
+
+#Hometxt input[type=text]{
+   border-radius:5px;
+   height:40px;
+   padding:0 5px;
+   margin:0 10px;
+}

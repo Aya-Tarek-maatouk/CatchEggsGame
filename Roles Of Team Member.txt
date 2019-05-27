@@ -1,0 +1,23 @@
+1- Aya Adel --->Function Create Birds 
+            --->Function Key Press
+
+2- Aya Tareq --->Function Create Eggs
+             --->Function MoveEggs
+
+3- Youmna Elhariri --->Function Start Game
+                   --->Function Move Birds
+
+4- Lamis Elsaadany --->Function Finish Game
+                   --->Catch Eggs
+
+
+All of team take part in :---->Function OnLoad 
+                          ---->Function Timer 
+                          ----> Check Validation
+                          ----> HTML Pages, CSS Scripts
+
+
+
+
+ 
+
